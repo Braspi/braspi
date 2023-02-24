@@ -1,8 +1,8 @@
 ### Hello world! 👋
-### 🤔 I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!
+### 🤔 - I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ###[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braspi&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
