@@ -1,7 +1,5 @@
 ### *Hello world!* 👋
 ### 🤔 - *I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!*
-&nbsp;
-&nbsp;
 ```
 🌱 I’m currently learning Java and Express
 ```
