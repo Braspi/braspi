@@ -3,15 +3,9 @@
 ```
 🌱 I’m currently learning Java and Express
 ```
-&nbsp;
-&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braspi&show_icons=true&theme=dark)
-
-
-
-
 <!--
 **Braspi/braspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
