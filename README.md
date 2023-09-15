@@ -4,6 +4,7 @@
 🌱 I’m currently learning Java and Node.js
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braspi&theme=dark&layout=compact&custom_title=3%20Last%20month...&range=last_3_month)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braspi&show_icons=true&theme=dark)
 <!--
