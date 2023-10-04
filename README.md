@@ -1,20 +1,18 @@
-### *Hello!* 👋
-🤔 - *I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braspi&theme=dark&layout=compact&custom_title=My%20last%20month...&range=last_month)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braspi&show_icons=true&theme=dark)
-<!--
-**Braspi/braspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi! I'm Braspi!</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=braspi&show_icons=true&theme=transparent&text_color=fff&title_color=4fa943&icon_color=9ec52f&hide_title=true&hide_border=true&hide=stars,contribs&count_private=true" </img>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=braspi&langs_count=10&theme=transparent&text_color=fff&title_color=4fa943&hide_border=true&layout=compact&custom_title=Last%207%20days...&range=last_7_days" </img>
+
+<br><br><br><br>
+
+<h3> About me</h3>
+<ul>
+  <li>
+    🎓 Programmer Technician School Student
+  </li>
+  <li>
+    💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer
+  </li>
+</ul>
