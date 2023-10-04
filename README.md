@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Jerry!</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jerry!</h1>
 
 <h3 align="center">I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!</h3>
   <p align="center">
