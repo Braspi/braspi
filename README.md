@@ -1,10 +1,9 @@
-### *Hello world!* 👋
-### 🤔 - *I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!*
+### *Hello!* 👋
+🤔 - *I am a young 16-year-old programmer with a passion for coding. You can take a look at my repositories to discover my projects and see the skills that I have developed so far!*
 ```
-🌱 I’m currently learning Java and Node.js
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braspi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braspi&theme=dark&layout=compact&custom_title=3%20Last%20month...&range=last_3_month)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braspi&theme=dark&layout=compact&custom_title=My%20last%20month...&range=last_month)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braspi&show_icons=true&theme=dark)
 <!--
