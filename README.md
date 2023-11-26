@@ -16,6 +16,9 @@
   <li>
     💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer
   </li>
+  <li>
+    🌐 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
+  </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
