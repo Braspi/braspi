@@ -20,7 +20,7 @@
     🌐 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
   </li>
   <li>
-    🌐 <a href="https://yshop.pl" target="_blank">yshop.pl</a>Frontend Developer
+    🌐 <a href="https://yshop.pl" target="_blank">yshop.pl</a> Frontend Developer
   </li>
 </ul>
 
