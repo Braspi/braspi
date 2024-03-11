@@ -19,6 +19,9 @@
   <li>
     🌐 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
   </li>
+  <li>
+    🌐 <a href="https://yshop.pl" target="_blank">kpbat.com</a>Frontend Developer
+  </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
