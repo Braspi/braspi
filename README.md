@@ -22,6 +22,9 @@
   <li>
     🌐 <a href="https://yshop.pl" target="_blank">yshop.pl</a> Frontend Developer
   </li>
+    <li>
+    🧠 <a href="https://teacheraway.pl" target="_blank">teacheraway.pl</a> Developer and Administrator
+  </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
