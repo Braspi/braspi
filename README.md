@@ -14,7 +14,7 @@
     🎓 Programmer Technician School Student
   </li>
   <li>
-    💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer
+    💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer - odd project
   </li>
   <li>
     🌐 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
