@@ -17,13 +17,16 @@
     💻 <a href="https://exotia.net/" target="_blank">exotia.net</a> Developer - odd project
   </li>
   <li>
-    🌐 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
+    🚧 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
   </li>
   <li>
-    🌐 <a href="https://yshop.pl" target="_blank">yshop.pl</a> Frontend Developer
+    🛒 <a href="https://yshop.pl" target="_blank">yshop.pl</a> Frontend Developer
   </li>
     <li>
     🧠 <a href="https://teacheraway.pl" target="_blank">teacheraway.pl</a> Developer and Administrator
+  </li>
+      <li>
+    🗺️ <a href="https://gdziebusik.pl" target="_blank">gdziebusik.pl</a> Frontend Developer and Administrator
   </li>
 </ul>
 
