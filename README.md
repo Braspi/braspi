@@ -13,11 +13,9 @@
   <li>
     🌏 <a href="https://jeremiaszcz.pl/" target="_blank">jeremiaszcz.pl</a> Developer
   </li>
-  <li>
 </ul>
 
-<br><br><br><br><br>
-
+<br><br>
 
 <h3> About me</h3>
 <ul>
