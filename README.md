@@ -15,7 +15,7 @@
   </li>
 </ul>
 
-<br><br>
+<br>
 
 <h3> About me</h3>
 <ul>
