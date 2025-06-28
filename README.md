@@ -11,7 +11,7 @@
 <h3> My website</h3>
 <ul>
   <li>
-    🌏 <a href="https://jeremiaszcz.pl/" target="_blank">jeremiaszcz.pl</a> Developer
+    🌏 <a href="https://jeremiaszcz.pl/" target="_blank">jeremiaszcz.pl</a> 
   </li>
 </ul>
 
