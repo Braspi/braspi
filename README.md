@@ -36,7 +36,7 @@
     🗺️ <a href="https://gdziebusik.pl" target="_blank">gdziebusik.pl</a> Frontend Developer and Administrator
   </li>
   <li>
-    🗺 <a href="https://trodos.pl" target="_blank">trodos.pl</a> Frontend Developer and Administrator
+    🌪️ <a href="https://trodos.pl" target="_blank">trodos.pl</a> Frontend Developer and Administrator
   </li>
 </ul>
 
