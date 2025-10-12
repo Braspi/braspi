@@ -21,7 +21,7 @@
     🎓 Programmer Technician School Student
   </li>
   <li>
-    💻 <s> <a href="https://exotia.net/" target="_blank">exotia.net</a> <s/> Developer - odd project
+    💻 <s> <a href="https://exotia.net/" target="_blank">exotia.net</a> </s> Developer - odd project
   </li>
   <li>
     🚧 <a href="https://kpbat.com/" target="_blank">kpbat.com</a> Developer and Administrator
