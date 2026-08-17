@@ -20,6 +20,9 @@
   <li>
     🎓 Programmer Technician School Student
   </li>
+    <li>
+     <a href="https://kolorovoo.pl/" target="_blank">grupa-sbp.pl</a> Frontend Developer and Administrator
+  </li>
   <li>
     💻 <s> <a href="https://exotia.net/" target="_blank">exotia.net</a> </s>  Developer - odd project
   </li>
